@@ -1,0 +1,206 @@
+
+
+*{
+    font-family: 'Roboto Slab', serif;
+    
+
+}
+.Contenido_central{
+
+    margin-top: 100px;
+
+}
+.contenido_central_index{
+    margin-top: 50px;
+
+}
+
+.titulos_principale{
+
+        font-size: 2em;
+        color: #036635;
+        font-weight: 900;
+}
+.titulos_secudanrio{
+
+    font-size: 1em;
+    color: chocolate;
+    font-weight: 900;
+}
+.piso_pagina{
+
+    height: 150px;
+    
+    
+    
+
+}
+footer{
+    margin-top: 100px;
+
+}
+main{
+    margin-bottom:50px ;
+
+    
+}
+
+p{
+  font-size: 15px;
+
+}
+
+/*
+    IMAGENES PEQUEÑAS 
+
+*/
+.imagenes_peque_ini{
+        width:  200px;
+        height: 150px;
+        border-radius: 10px;
+
+}
+
+.imagenes_peque_nuestrocafe{
+    height: 200px;
+    width: 250px;
+
+
+
+}
+
+.imagenes_peque_QuienesSomos{
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+/*
+    IMAGENES GRANDES
+
+*/
+.imagenes_inicio_grandes{
+        height: auto;
+        width: auto;
+
+}
+.imagenes_grande_QuienesSomos{
+    width: 1100px;
+}
+
+.imagenes_grande_sucursales{
+
+    width: 1600px;
+    border-style: solid;
+
+
+}
+.imagenes_contacto_grandes{
+    height: auto;
+    width: auto;
+   
+
+}
+.Imagen_empresa{
+    height: 60px;
+    width: 60px;
+
+}
+
+/*Navegador*/
+
+.sector_navegador:hover{
+ 
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+
+    
+
+}
+
+
+.Redes i {
+    color:black;
+    transition: all 0.45 ease;
+    
+}
+
+
+
+.Redes a{
+    width: 36px;
+    height: 36px;
+    background-color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    font-size: 18px;
+    margin-left: 5px;
+    
+}
+.Redes a:hover{
+    background-color: darkturquoise;
+
+
+}
+.index_boton{
+
+    width: 120px;
+   
+}
+.estado_sucursal{
+    border-radius: 50px;
+    padding: 7px 16px;
+    line-height: 1.2;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #d4e9e2;
+    color: #006241;
+    
+
+}
+.boton_menu{
+    
+    
+    width: 120px;
+
+
+}
+.texto_inicio{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
+
+}
+.texto_Menu{
+    font-weight: bold;
+    color: #006241;
+    font-size: 1em;
+
+
+
+}
+.texto_Quienes{
+    font-weight: 600;
+    color: #006241;
+    font-size: 0.9em;
+
+}
+.contenido_footer h3{
+    color: aliceblue;
+    font-size: 0.9em;
+}
+ 
+
+.imagen_foo{
+
+    width: 60px;
+    height: auto;
+}
+.texto_horario_sucursal{
+
+    font-size: 1em;
+
+}
